@@ -112,7 +112,10 @@ img {
     .attribution a { color: var(--Moderate-violet); }  
 
     .row.container {
-         padding: 50px;
+         padding: 0 50px;
+    }
+    .container{
+        padding:0 50px ;
     }
 @media (max-width:950px)
 {
